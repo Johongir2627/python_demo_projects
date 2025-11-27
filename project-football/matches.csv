@@ -1,0 +1,101 @@
+match_id,link,tournament,date,home_team,away_team,score,result
+1,https://www.sofascore.com/football/match/real-madrid-barcelona/rgbsEgb#id:12437545,LaLiga,11/05/25,Barcelona,Real Madrid,4 - 3,L
+2,https://www.sofascore.com/football/match/real-madrid-barcelona/rgbsEgb#id:13708595,Copa del Rey,27/04/25,Barcelona,Real Madrid,3 - 2,L
+3,https://www.sofascore.com/football/match/getafe-real-madrid/Egbsjhb#id:12437530,LaLiga,24/04/25,Getafe,Real Madrid,0 - 1,W
+4,https://www.sofascore.com/football/match/real-madrid-arsenal/RsEgb#id:13513422,UEFA Champions League,17/04/25,Real Madrid,Arsenal,1 - 2,L
+5,https://www.sofascore.com/football/match/deportivo-alaves-real-madrid/EgbsKhb#id:12437632,LaLiga,13/04/25,Alavés,Real Madrid,0 - 1,W
+6,https://www.sofascore.com/football/match/real-madrid-arsenal/RsEgb#id:13513403,UEFA Champions League,09/04/25,Arsenal,Real Madrid,3 - 0,L
+7,https://www.sofascore.com/football/match/real-madrid-valencia/DgbsEgb#id:12437577,LaLiga,05/04/25,Real Madrid,Valencia,1 - 2,L
+8,https://www.sofascore.com/football/match/real-madrid-real-sociedad/zgbsEgb#id:13466670,Copa del Rey,02/04/25,Real Madrid,Real Sociedad,4 - 4,D
+9,https://www.sofascore.com/football/match/leganes-real-madrid/EgbsVgb#id:12437573,LaLiga,30/03/25,Real Madrid,Leganés,3 - 2,W
+10,https://www.sofascore.com/football/match/atletico-madrid-real-madrid/EgbsLgb#id:13511924,UEFA Champions League,13/03/25,Atl. Madrid,Real Madrid,1(2) - 0(4),L
+11,https://www.sofascore.com/football/match/real-madrid-rayo-vallecano/tgbsEgb#id:12437549,LaLiga,09/03/25,Real Madrid,Rayo Vallecano,2 - 1,W
+12,https://www.sofascore.com/football/match/atletico-madrid-real-madrid/EgbsLgb#id:13511923,UEFA Champions League,05/03/25,Real Madrid,Atl. Madrid,2 - 1,W
+13,https://www.sofascore.com/football/match/real-madrid-real-betis/qgbsEgb#id:12437865,LaLiga,01/03/25,Real Betis,Real Madrid,2 - 1,L
+14,https://www.sofascore.com/football/match/real-madrid-real-sociedad/zgbsEgb#id:13466609,Copa del Rey,27/02/25,Real Sociedad,Real Madrid,0 - 1,W
+15,https://www.sofascore.com/football/match/girona-fc-real-madrid/EgbsoKj#id:12437861,LaLiga,23/02/25,Real Madrid,Girona,2 - 0,W
+16,https://www.sofascore.com/football/match/real-madrid-manchester-city/rsEgb#id:13412185,UEFA Champions League,20/02/25,Real Madrid,Man City,3 - 1,W
+17,https://www.sofascore.com/football/match/real-madrid-osasuna/vgbsEgb#id:12437817,LaLiga,15/02/25,Osasuna,Real Madrid,1 - 1,D
+18,https://www.sofascore.com/football/match/real-madrid-manchester-city/rsEgb#id:13412184,UEFA Champions League,12/02/25,Man City,Real Madrid,2 - 3,W
+19,https://www.sofascore.com/football/match/atletico-madrid-real-madrid/EgbsLgb#id:12437775,LaLiga,09/02/25,Real Madrid,Atl. Madrid,1 - 1,D
+20,https://www.sofascore.com/football/match/leganes-real-madrid/EgbsVgb#id:13363911,Copa del Rey,06/02/25,Leganés,Real Madrid,2 - 3,W
+21,https://www.sofascore.com/football/match/real-madrid-espanyol/ogbsEgb#id:12437725,LaLiga,02/02/25,Espanyol,Real Madrid,1 - 0,L
+22,https://www.sofascore.com/football/match/real-madrid-stade-brestois/pJsEgb#id:12764165,UEFA Champions League,30/01/25,Brest,Real Madrid,0 - 3,W
+23,https://www.sofascore.com/football/match/real-valladolid-real-madrid/EgbsGgb#id:12437677,LaLiga,26/01/25,Real Valladolid,Real Madrid,0 - 3,W
+24,https://www.sofascore.com/football/match/real-madrid-red-bull-salzburg/WPsEgb#id:12764439,UEFA Champions League,23/01/25,Real Madrid,RB Salzburg,5 - 1,W
+25,https://www.sofascore.com/football/match/las-palmas-real-madrid/EgbsCGc#id:12437845,LaLiga,19/01/25,Real Madrid,Las Palmas,4 - 1,W
+26,https://www.sofascore.com/football/match/real-madrid-celta-vigo/wgbsEgb#id:13315901,Copa del Rey,17/01/25,Real Madrid,Celta,5 - 2,W
+27,https://www.sofascore.com/football/match/real-madrid-barcelona/rgbsEgb#id:13318476,Supercopa de España,13/01/25,Real Madrid,Barcelona,2 - 5,L
+28,https://www.sofascore.com/football/match/deportiva-minera-real-madrid/EgbsYYAb#id:13211194,Copa del Rey,06/01/25,Minera,Real Madrid,0 - 5,W
+29,https://www.sofascore.com/football/match/real-madrid-valencia/DgbsEgb#id:13199638,LaLiga,04/01/25,Valencia,Real Madrid,1 - 2,W
+30,https://www.sofascore.com/football/match/real-madrid-cf-pachuca/LNsEgb#id:13231719,FIFA Intercontinental Cup,18/12/24,Real Madrid,Pachuca,3 - 0,W
+31,https://www.sofascore.com/football/match/real-madrid-rayo-vallecano/tgbsEgb#id:12437759,LaLiga,15/12/24,Rayo Vallecano,Real Madrid,3 - 3,D
+32,https://www.sofascore.com/football/match/real-madrid-atalanta/LdbsEgb#id:12763974,UEFA Champions League,11/12/24,Atalanta,Real Madrid,2 - 3,W
+33,https://www.sofascore.com/football/match/girona-fc-real-madrid/EgbsoKj#id:12437738,LaLiga,08/12/24,Girona,Real Madrid,0 - 3,W
+34,https://www.sofascore.com/football/match/real-madrid-liverpool/UsEgb#id:12764328,UEFA Champions League,28/11/24,Liverpool,Real Madrid,2 - 0,L
+35,https://www.sofascore.com/football/match/leganes-real-madrid/EgbsVgb#id:12437693,LaLiga,24/11/24,Leganés,Real Madrid,0 - 3,W
+36,https://www.sofascore.com/football/match/real-madrid-milan/RdbsEgb#id:12764432,UEFA Champions League,06/11/24,Real Madrid,Milan,1 - 3,L
+37,https://www.sofascore.com/football/match/real-madrid-valencia/DgbsEgb#id:12437653,LaLiga,03/11/24,Valencia,Real Madrid, - ,?
+38,https://www.sofascore.com/football/match/real-madrid-borussia-dortmund/ydbsEgb#id:12764435,UEFA Champions League,23/10/24,Real Madrid,Dortmund,5 - 2,W
+39,https://www.sofascore.com/football/match/real-madrid-celta-vigo/wgbsEgb#id:12437842,LaLiga,20/10/24,Celta,Real Madrid,1 - 2,W
+40,https://www.sofascore.com/football/match/real-madrid-lille/THsEgb#id:12764304,UEFA Champions League,03/10/24,Lille,Real Madrid,1 - 0,L
+41,https://www.sofascore.com/football/match/atletico-madrid-real-madrid/EgbsLgb#id:12437787,LaLiga,30/09/24,Atl. Madrid,Real Madrid,1 - 1,D
+42,https://www.sofascore.com/football/match/real-madrid-vfb-stuttgart/CdbsEgb#id:12764442,UEFA Champions League,18/09/24,Real Madrid,Stuttgart,3 - 1,W
+43,https://www.sofascore.com/football/match/real-madrid-real-sociedad/zgbsEgb#id:12437728,LaLiga,15/09/24,Real Sociedad,Real Madrid,0 - 2,W
+44,https://www.sofascore.com/football/match/real-madrid-atalanta/LdbsEgb#id:12334358,UEFA Super Cup,15/08/24,Real Madrid,Atalanta,2 - 0,W
+45,https://www.sofascore.com/football/match/real-madrid-chelsea/NsEgb#id:12327428,Club Friendly Games,07/08/24,Chelsea,Real Madrid,1 - 2,W
+46,https://www.sofascore.com/football/match/real-madrid-borussia-dortmund/ydbsEgb#id:12173509,UEFA Champions League,02/06/24,Dortmund,Real Madrid,0 - 2,W
+47,https://www.sofascore.com/football/match/real-madrid-real-betis/qgbsEgb#id:11368620,LaLiga,26/05/24,Real Madrid,Real Betis,0 - 0,D
+48,https://www.sofascore.com/football/match/real-madrid-fc-bayern-munchen/xdbsEgb#id:12173508,UEFA Champions League,09/05/24,Real Madrid,Bayern,2 - 1,W
+49,https://www.sofascore.com/football/match/cadiz-real-madrid/EgbsNOb#id:11368659,LaLiga,04/05/24,Real Madrid,Cádiz,3 - 0,W
+50,https://www.sofascore.com/football/match/real-madrid-fc-bayern-munchen/xdbsEgb#id:12173506,UEFA Champions League,01/05/24,Bayern,Real Madrid,2 - 2,D
+51,https://www.sofascore.com/football/match/real-madrid-real-sociedad/zgbsEgb#id:11368653,LaLiga,27/04/24,Real Sociedad,Real Madrid,0 - 1,W
+52,https://www.sofascore.com/football/match/real-madrid-manchester-city/rsEgb#id:12173502,UEFA Champions League,18/04/24,Man City,Real Madrid,1(3) - 1(4),W
+53,https://www.sofascore.com/football/match/real-madrid-mallorca/BgbsEgb#id:11368681,LaLiga,13/04/24,Mallorca,Real Madrid,0 - 1,W
+54,https://www.sofascore.com/football/match/real-madrid-manchester-city/rsEgb#id:12163160,UEFA Champions League,10/04/24,Real Madrid,Man City,3 - 3,D
+55,https://www.sofascore.com/football/match/real-madrid-athletic-club/AgbsEgb#id:11368707,LaLiga,01/04/24,Real Madrid,Athletic Club,2 - 0,W
+56,https://www.sofascore.com/football/match/rb-leipzig-real-madrid/EgbskCo#id:11905284,UEFA Champions League,07/03/24,Real Madrid,Leipzig,1 - 1,D
+57,https://www.sofascore.com/football/match/real-madrid-valencia/DgbsEgb#id:11368730,LaLiga,03/03/24,Valencia,Real Madrid,2 - 2,D
+58,https://www.sofascore.com/football/match/rb-leipzig-real-madrid/EgbskCo#id:11905269,UEFA Champions League,14/02/24,Leipzig,Real Madrid,0 - 1,W
+59,https://www.sofascore.com/football/match/girona-fc-real-madrid/EgbsoKj#id:11368762,LaLiga,10/02/24,Real Madrid,Girona,4 - 0,W
+60,https://www.sofascore.com/football/match/atletico-madrid-real-madrid/EgbsLgb#id:11958268,Copa del Rey,19/01/24,Atl. Madrid,Real Madrid,4 - 2,L
+61,https://www.sofascore.com/football/match/real-madrid-barcelona/rgbsEgb#id:11966053,Supercopa de España,15/01/24,Real Madrid,Barcelona,4 - 1,W
+62,https://www.sofascore.com/football/match/arandina-cf-real-madrid/EgbsrHw#id:11895388,Copa del Rey,07/01/24,Arandina,Real Madrid,1 - 3,W
+63,https://www.sofascore.com/football/match/real-madrid-mallorca/BgbsEgb#id:11369455,LaLiga,03/01/24,Real Madrid,Mallorca,1 - 0,W
+64,https://www.sofascore.com/football/match/real-madrid-1-fc-union-berlin/XabsEgb#id:11605957,UEFA Champions League,13/12/23,Union Berlin,Real Madrid,2 - 3,W
+65,https://www.sofascore.com/football/match/real-madrid-real-betis/qgbsEgb#id:11369421,LaLiga,09/12/23,Real Betis,Real Madrid,1 - 1,D
+66,https://www.sofascore.com/football/match/real-madrid-napoli/oebsEgb#id:11605954,UEFA Champions League,30/11/23,Real Madrid,Napoli,4 - 2,W
+67,https://www.sofascore.com/football/match/cadiz-real-madrid/EgbsNOb#id:11369399,LaLiga,26/11/23,Cádiz,Real Madrid,0 - 3,W
+68,https://www.sofascore.com/football/match/sporting-braga-real-madrid/EgbsZjb#id:11605848,UEFA Champions League,09/11/23,Real Madrid,Braga,3 - 0,W
+69,https://www.sofascore.com/football/match/real-madrid-rayo-vallecano/tgbsEgb#id:11369385,LaLiga,06/11/23,Real Madrid,Rayo Vallecano,0 - 0,D
+70,https://www.sofascore.com/football/match/sporting-braga-real-madrid/EgbsZjb#id:11605852,UEFA Champions League,25/10/23,Braga,Real Madrid,1 - 2,W
+71,https://www.sofascore.com/football/match/sevilla-real-madrid/EgbsIgb#id:11369364,LaLiga,21/10/23,Sevilla,Real Madrid,1 - 1,D
+72,https://www.sofascore.com/football/match/real-madrid-napoli/oebsEgb#id:11605847,UEFA Champions League,04/10/23,Napoli,Real Madrid,2 - 3,W
+73,https://www.sofascore.com/football/match/girona-fc-real-madrid/EgbsoKj#id:11369342,LaLiga,30/09/23,Girona,Real Madrid,0 - 3,W
+74,https://www.sofascore.com/football/match/real-madrid-1-fc-union-berlin/XabsEgb#id:11605850,UEFA Champions League,20/09/23,Real Madrid,Union Berlin,1 - 0,W
+75,https://www.sofascore.com/football/match/real-madrid-real-sociedad/zgbsEgb#id:11369309,LaLiga,18/09/23,Real Madrid,Real Sociedad,2 - 1,W
+76,https://www.sofascore.com/football/match/real-madrid-juventus/MdbsEgb#id:11493589,Florida Cup,03/08/23,Juventus,Real Madrid,3 - 1,L
+77,https://www.sofascore.com/football/match/real-madrid-barcelona/rgbsEgb#id:11331884,Club Friendly Games,30/07/23,Barcelona,Real Madrid,3 - 0,L
+78,https://www.sofascore.com/football/match/real-madrid-athletic-club/AgbsEgb#id:10408294,LaLiga,04/06/23,Real Madrid,Athletic Club,1 - 1,D
+79,https://www.sofascore.com/football/match/real-madrid-manchester-city/rsEgb#id:11224737,UEFA Champions League,18/05/23,Man City,Real Madrid,4 - 0,L
+80,https://www.sofascore.com/football/match/getafe-real-madrid/Egbsjhb#id:10408479,LaLiga,14/05/23,Real Madrid,Getafe,1 - 0,W
+81,https://www.sofascore.com/football/match/real-madrid-manchester-city/rsEgb#id:11224240,UEFA Champions League,10/05/23,Real Madrid,Man City,1 - 1,D
+82,https://www.sofascore.com/football/match/real-madrid-osasuna/vgbsEgb#id:11194439,Copa del Rey,07/05/23,Real Madrid,Osasuna,2 - 1,W
+83,https://www.sofascore.com/football/match/real-madrid-real-sociedad/zgbsEgb#id:10408473,LaLiga,03/05/23,Real Sociedad,Real Madrid,2 - 0,L
+84,https://www.sofascore.com/football/match/real-madrid-chelsea/NsEgb#id:11137261,UEFA Champions League,19/04/23,Chelsea,Real Madrid,0 - 2,W
+85,https://www.sofascore.com/football/match/cadiz-real-madrid/EgbsNOb#id:10408426,LaLiga,16/04/23,Cádiz,Real Madrid,0 - 2,W
+86,https://www.sofascore.com/football/match/real-madrid-chelsea/NsEgb#id:11137259,UEFA Champions League,13/04/23,Real Madrid,Chelsea,2 - 0,W
+87,https://www.sofascore.com/football/match/real-madrid-villarreal/ugbsEgb#id:10408422,LaLiga,09/04/23,Real Madrid,Villarreal,2 - 3,L
+88,https://www.sofascore.com/football/match/real-madrid-barcelona/rgbsEgb#id:11027944,Copa del Rey,06/04/23,Barcelona,Real Madrid,0 - 4,W
+89,https://www.sofascore.com/football/match/real-valladolid-real-madrid/EgbsGgb#id:10408405,LaLiga,02/04/23,Real Madrid,Real Valladolid,6 - 0,W
+90,https://www.sofascore.com/football/match/real-madrid-liverpool/UsEgb#id:10865876,UEFA Champions League,16/03/23,Real Madrid,Liverpool,1 - 0,W
+91,https://www.sofascore.com/football/match/real-madrid-espanyol/ogbsEgb#id:10408550,LaLiga,11/03/23,Real Madrid,Espanyol,3 - 1,W
+92,https://www.sofascore.com/football/match/real-madrid-barcelona/rgbsEgb#id:11027942,Copa del Rey,03/03/23,Real Madrid,Barcelona,0 - 1,L
+93,https://www.sofascore.com/football/match/atletico-madrid-real-madrid/EgbsLgb#id:10408384,LaLiga,25/02/23,Real Madrid,Atl. Madrid,1 - 1,D
+94,https://www.sofascore.com/football/match/real-madrid-liverpool/UsEgb#id:10865868,UEFA Champions League,22/02/23,Liverpool,Real Madrid,2 - 5,W
+95,https://www.sofascore.com/football/match/real-madrid-osasuna/vgbsEgb#id:10408370,LaLiga,19/02/23,Osasuna,Real Madrid,0 - 2,W
+96,https://www.sofascore.com/football/match/al-hilal-real-madrid/EgbsVMi#id:11030785,Club World Championship,12/02/23,Real Madrid,Al-Hilal,5 - 3,W
+97,https://www.sofascore.com/football/match/real-madrid-mallorca/BgbsEgb#id:10408365,LaLiga,05/02/23,Mallorca,Real Madrid,1 - 0,L
+98,https://www.sofascore.com/football/match/atletico-madrid-real-madrid/EgbsLgb#id:11004769,Copa del Rey,27/01/23,Real Madrid,Atl. Madrid,3 - 1,W
+99,https://www.sofascore.com/football/match/real-madrid-athletic-club/AgbsEgb#id:10408340,LaLiga,23/01/23,Athletic Club,Real Madrid,0 - 2,W
+100,https://www.sofascore.com/football/match/real-madrid-villarreal/ugbsEgb#id:10980219,Copa del Rey,20/01/23,Villarreal,Real Madrid,2 - 3,W
